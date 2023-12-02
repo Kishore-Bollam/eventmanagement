@@ -1,0 +1,198 @@
+{
+  "user": [
+    {
+      "id": 1001,
+      "firstname": "kishore.B",
+      "lastname": "kumar",
+      "email": "bollamkishore@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1002,
+      "firstname": "kishore.G",
+      "lastname": "kumar",
+      "email": "kishore@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1003,
+      "firstname": "srinu.I",
+      "lastname": "vas",
+      "email": "bollamkishore@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1004,
+      "firstname": "sandeep.K",
+      "lastname": "kumar",
+      "email": "srinu@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1005,
+      "firstname": "kavita.k",
+      "lastname": "kumari",
+      "email": "sandeep@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1006,
+      "firstname": "mahesh.J",
+      "lastname": "babu",
+      "email": "mahesh@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1007,
+      "firstname": "krishna.v",
+      "lastname": "chaithanya",
+      "email": "krishna@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1008,
+      "firstname": "sharath.T",
+      "lastname": "saho",
+      "email": "sharath@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1009,
+      "firstname": "kasiswar.K",
+      "lastname": "reddy",
+      "email": "kasiswar@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    },
+    {
+      "id": 1010,
+      "firstname": "Rajini.S",
+      "lastname": "kumari",
+      "email": "Rajini@gmail.com",
+      "phoneno": 6303130161,
+      "dob": "12-10-1995"
+    }
+  ],
+  "user-login": [
+    {
+      "id": 1,
+      "email": "bollamkishore@gmail.com",
+      "password": "kishore@123"
+    }
+  ],
+  "event-category": [
+    {
+      "id": 1,
+      "categoryName": "pelli",
+      "categoryDescription": "cuupulu",
+      "isactive": false
+    },
+    {
+      "id": 2,
+      "categoryName": "pelli",
+      "categoryDescription": "cuupulu",
+      "isactive": false
+    },
+    {
+      "id": 3,
+      "categoryName": "",
+      "categoryDescription": "",
+      "isactive": false
+    },
+    {
+      "id": 4,
+      "categoryName": "hii",
+      "categoryDescription": "hello",
+      "isactive": false
+    },
+    {
+      "id": 5,
+      "categoryName": " ",
+      "categoryDescription": " ",
+      "isactive": false
+    },
+    {
+      "id": 6,
+      "categoryName": "",
+      "categoryDescription": "",
+      "isactive": false
+    },
+    {
+      "id": 7,
+      "categoryName": "wedding ",
+      "categoryDescription": "wedding",
+      "isactive": true
+    },
+    {
+      "id": 8,
+      "categoryName": "birthday",
+      "categoryDescription": "birthday celebrations",
+      "isactive": true
+    },
+    {
+      "id": 9,
+      "categoryName": "weeding ",
+      "categoryDescription": "wedding anniversary",
+      "isactive": true
+    }
+  ],
+  "imagegallery": [
+    {}
+  ],
+  "Birthdayevent": [
+    {
+      "id": 0,
+      "eventname": "birthday party",
+      "phoneno": 6303130161,
+      "email": "bollamkishore@gmail.com",
+      "address": "hyderbad",
+      "birthdayDate": "12-oct-1995",
+      "eventDesc": "birthday party"
+    },
+    {
+      "id": 1,
+      "eventname": "birthday party",
+      "phoneno": 6303130161,
+      "email": "bollamkishore@gmail.com",
+      "address": "hyderbad",
+      "birthdayDate": "12-oct-1995",
+      "eventDesc": "birthday party"
+    },
+    {
+      "id": 2
+    }
+  ],
+  "anniversaryEvent": [
+    {
+      "id": 1,
+      "eventname": "birthday party",
+      "phoneno": 6303130161,
+      "email": "bollamkishore@gmail.com",
+      "address": "hyderbad",
+      "birthdayDate": "12-oct-1995",
+      "eventDesc": "birthday party"
+    }
+  ],
+  "weddingEvent": [
+    {
+      "id": 1,
+      "eventname": "wedding party",
+      "phoneno": 6303130161,
+      "email": "bollamkishore@gmail.com",
+      "address": "hyderbad",
+      "birthdayDate": "12-oct-1995",
+      "eventDesc": "wedding party"
+    },
+    {
+      "id": 2
+    }
+  ]
+}
